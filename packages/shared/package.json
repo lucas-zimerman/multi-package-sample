@@ -1,0 +1,6 @@
+{
+  "name": "@archive/shared",
+  "version": "1.0.0",
+  "main": "shared/index.js",
+  "private": true
+} 

@@ -1,0 +1,3 @@
+*.aab
+node_modules
+expo-env.d.ts
